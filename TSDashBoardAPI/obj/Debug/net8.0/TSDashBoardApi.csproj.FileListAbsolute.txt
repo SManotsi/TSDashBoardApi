@@ -1,0 +1,341 @@
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\appsettings.json
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.exe
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.deps.json
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.runtimeconfig.json
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.pdb
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.csproj.AssemblyReference.cache
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.AssemblyInfoInputs.cache
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.AssemblyInfo.cs
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.csproj.CoreCompileInputs.cache
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.TSDashBoardApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TSDashBoardApi.props
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TSDashBoardApi.props
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TSDashBoardApi.props
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\scopedcss\bundle\TSDashBoardApi.styles.css
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBo.CEFDA6F7.Up2Date
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\refint\TSDashBoardApi.dll
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.pdb
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.genruntimeconfig.cache
+C:\Users\teksa\Downloads\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\ref\TSDashBoardApi.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\appsettings.json
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.exe
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.deps.json
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.runtimeconfig.json
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.pdb
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.csproj.AssemblyReference.cache
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.AssemblyInfoInputs.cache
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.AssemblyInfo.cs
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.csproj.CoreCompileInputs.cache
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.TSDashBoardApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TSDashBoardApi.props
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TSDashBoardApi.props
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TSDashBoardApi.props
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\scopedcss\bundle\TSDashBoardApi.styles.css
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBo.CEFDA6F7.Up2Date
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\refint\TSDashBoardApi.dll
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.pdb
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.genruntimeconfig.cache
+C:\Users\simph\OneDrive\Documents\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\ref\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\appsettings.json
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.exe
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.deps.json
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.runtimeconfig.json
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.pdb
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.csproj.AssemblyReference.cache
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.AssemblyInfoInputs.cache
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.AssemblyInfo.cs
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.csproj.CoreCompileInputs.cache
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.TSDashBoardApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TSDashBoardApi.props
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TSDashBoardApi.props
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TSDashBoardApi.props
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\scopedcss\bundle\TSDashBoardApi.styles.css
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBo.CEFDA6F7.Up2Date
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\refint\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.pdb
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.genruntimeconfig.cache
+C:\Users\teksa\OneDrive\Desktop\TSDashBoardApi-New\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\ref\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\appsettings.json
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.exe
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.deps.json
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.runtimeconfig.json
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.pdb
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.csproj.AssemblyReference.cache
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.AssemblyInfoInputs.cache
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.AssemblyInfo.cs
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.csproj.CoreCompileInputs.cache
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.TSDashBoardApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TSDashBoardApi.props
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TSDashBoardApi.props
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TSDashBoardApi.props
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\scopedcss\bundle\TSDashBoardApi.styles.css
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBo.CEFDA6F7.Up2Date
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\refint\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.pdb
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\TSDashBoardApi.genruntimeconfig.cache
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\obj\Debug\net8.0\ref\TSDashBoardApi.dll
+C:\Users\teksa\OneDrive\Desktop\Sheni (2)\TSDashBoardApi-master (2)\TSDashBoardApi-master\TSDashBoardApi-master\TSDashBoardApi\bin\Debug\net8.0\TSDashBoardApi.staticwebassets.runtime.json

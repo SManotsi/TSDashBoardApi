@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\0f2f62ff-53bb-44f2-af09-e7e2e47bf429.txt",
+      "PackagePath": "staticwebassets\\uploads\\0f2f62ff-53bb-44f2-af09-e7e2e47bf429.txt"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\12db9894-abbe-40c8-a675-a45d233521d0.pdf",
+      "PackagePath": "staticwebassets\\uploads\\12db9894-abbe-40c8-a675-a45d233521d0.pdf"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\19b7ee1f-ba68-4532-a0e6-173422a07779.pdf",
+      "PackagePath": "staticwebassets\\uploads\\19b7ee1f-ba68-4532-a0e6-173422a07779.pdf"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\2f7aa854-f3be-48d9-af96-aa3b6517233f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\2f7aa854-f3be-48d9-af96-aa3b6517233f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\480b7847-9a54-46c3-b077-60b9c3cca2af.txt",
+      "PackagePath": "staticwebassets\\uploads\\480b7847-9a54-46c3-b077-60b9c3cca2af.txt"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\7b18b797-14ec-43de-8795-b66c705f4d36.pdf",
+      "PackagePath": "staticwebassets\\uploads\\7b18b797-14ec-43de-8795-b66c705f4d36.pdf"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\8a670522-febb-4c85-a326-f147b000e974.txt",
+      "PackagePath": "staticwebassets\\uploads\\8a670522-febb-4c85-a326-f147b000e974.txt"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\908f175c-c82c-44c4-bd7b-70cfd90b2c75.pdf",
+      "PackagePath": "staticwebassets\\uploads\\908f175c-c82c-44c4-bd7b-70cfd90b2c75.pdf"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\aefc0134-15d9-4099-8765-ae853718530a.txt",
+      "PackagePath": "staticwebassets\\uploads\\aefc0134-15d9-4099-8765-ae853718530a.txt"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\d5826fc5-3f68-4611-84e4-de01cdbd224a.pdf",
+      "PackagePath": "staticwebassets\\uploads\\d5826fc5-3f68-4611-84e4-de01cdbd224a.pdf"
+    },
+    {
+      "Id": "C:\\Users\\teksa\\OneDrive\\Desktop\\Sheni (2)\\TSDashBoardApi-master (2)\\TSDashBoardApi-master\\TSDashBoardApi-master\\TSDashBoardApi\\wwwroot\\uploads\\ea6529c4-aea0-48cc-9ef9-6293c3a18373.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ea6529c4-aea0-48cc-9ef9-6293c3a18373.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TSDashBoardApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TSDashBoardApi.props",
+      "PackagePath": "build\\TSDashBoardApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TSDashBoardApi.props",
+      "PackagePath": "buildMultiTargeting\\TSDashBoardApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TSDashBoardApi.props",
+      "PackagePath": "buildTransitive\\TSDashBoardApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
