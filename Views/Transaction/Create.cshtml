@@ -1,0 +1,91 @@
+﻿@model TeksaHDashboard.Models.TransactionsViewModel
+
+@{
+    ViewData["Title"] = "Create Transaction";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Create Transaction</h1>
+
+    <h4 class="text-muted text-center">Fill in the details below:</h4>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" placeholder="Enter Description" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Amount" class="control-label"></label>
+                    <input asp-for="Amount" class="form-control" placeholder="Enter Amount" />
+                    <span asp-validation-for="Amount" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CreatedAt" class="control-label"></label>
+                    <input asp-for="CreatedAt" class="form-control" type="date" />
+                    <span asp-validation-for="CreatedAt" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Index" class="btn btn-link">Back to List</a>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f4f4f4; /* Light background */
+    }
+
+    h1 {
+        background-color: gray;
+        color: white;
+        padding: 15px;
+        text-align: center;
+    }
+
+    .container {
+        background-color: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        color: white;
+    }
+
+    .btn-link {
+        color: #007bff;
+    }
+
+    hr {
+        border: 1px solid lightgray;
+    }
+
+    .form-control {
+        margin-bottom: 20px;
+    }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

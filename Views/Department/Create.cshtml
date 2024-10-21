@@ -1,0 +1,81 @@
+﻿@model TeksaHDashboard.Models.DepartmentsViewModel
+
+@{
+    ViewData["Title"] = "Create Department";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Create Department</h1>
+
+    <h4 class="text-muted text-center">Fill in the details below:</h4>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter Department Name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Location" class="control-label"></label>
+                    <input asp-for="Location" class="form-control" placeholder="Enter Location" />
+                    <span asp-validation-for="Location" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-success btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Index" class="btn btn-link">Back to List</a>
+    </div>
+</div>
+
+<style>
+    body {
+        background: linear-gradient(to right, #f0f4f8, #e0e7ff); /* Gradient background */
+        background-size: cover;
+        background-attachment: fixed; /* Fixed attachment */
+    }
+
+    h1 {
+        background-color: gray; /* Gray background for header */
+        color: white; /* White text color */
+        padding: 15px; /* Padding for header */
+        text-align: center; /* Center alignment */
+    }
+
+    .container {
+        background-color: white; /* White background for the form container */
+        padding: 20px; /* Padding for container */
+        border-radius: 8px; /* Rounded corners */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    }
+
+    .form-group label {
+        font-weight: bold; /* Bold labels */
+    }
+
+    .btn-success {
+        background-color: #007bff; /* Green button */
+        border: none; /* No border */
+    }
+
+    hr {
+        border: 1px solid lightgray; /* Light gray line */
+    }
+
+    .form-control {
+        margin-bottom: 20px; /* Spacing between input fields */
+    }
+</style>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");} /* Validation scripts */
+}

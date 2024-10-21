@@ -1,0 +1,73 @@
+﻿@model TeksaHDashboard.Models.TimeTrackingViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<style>
+    body {
+        background-color: #f4f4f4; /* Light background color */
+        font-family: Arial, sans-serif; /* Font style */
+    }
+
+    h1 {
+        background-color: gray; /* Gray background for the header */
+        color: #fff; /* White text */
+        padding: 10px; /* Padding for the header */
+        text-align: center; /* Center align the header text */
+    }
+
+    .container {
+        margin-top: 20px; /* Top margin for the container */
+    }
+
+    .btn-primary {
+        background-color: #007bff; /* Blue button color */
+        border-color: #007bff; /* Border color matching the button */
+        color: #fff; /* White text on the button */
+    }
+</style>
+
+<div class="container mt-4">
+    <h1 class="text-center">Create Time Tracking Entry</h1>
+
+    <h4 class="text-muted text-center">Fill in the details below:</h4>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="StaffId" class="control-label"></label>
+                    <input asp-for="StaffId" class="form-control" placeholder="Enter Staff ID" />
+                    <span asp-validation-for="StaffId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProjectId" class="control-label"></label>
+                    <input asp-for="ProjectId" class="form-control" placeholder="Enter Project ID" />
+                    <span asp-validation-for="ProjectId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="HoursWorked" class="control-label"></label>
+                    <input asp-for="HoursWorked" class="form-control" placeholder="Enter Hours Worked" />
+                    <span asp-validation-for="HoursWorked" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Index" class="btn btn-link">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

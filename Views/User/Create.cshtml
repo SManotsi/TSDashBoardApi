@@ -1,0 +1,103 @@
+﻿@model TeksaHDashboard.Models.UsersViewModel
+
+@{
+    ViewData["Title"] = "Create User";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Create User</h1>
+
+    <h4 class="text-muted text-center">Fill in the details below:</h4>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter Name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Role" class="control-label"></label>
+                    <select asp-for="Role" class="form-control">
+                        <option value="">Select Role</option>
+                        <option value="Staff">Staff</option>
+                        <option value="HR">HR</option>
+                        <option value="Admin">Admin</option>
+                        <option value="Client">Client</option>
+                        <option value="Accountant">Accountant</option>
+                    </select>
+                    <span asp-validation-for="Role" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Status" class="control-label"></label>
+                    <select asp-for="Status" class="form-control">
+                        <option value="">Select Status</option>
+                        <option value="Active">Active</option>
+                        <option value="Inactive">Inactive</option>
+                        <option value="Pending">Pending</option>
+                    </select>
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Index" class="btn btn-link">Back to List</a>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f4f4f4; /* Light background */
+    }
+
+    h1 {
+        background-color: gray;
+        color: white;
+        padding: 15px;
+        text-align: center;
+    }
+
+    .container {
+        background-color: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        color: white;
+    }
+
+    .btn-link {
+        color: #007bff;
+    }
+
+    hr {
+        border: 1px solid lightgray;
+    }
+
+    .form-control {
+        margin-bottom: 20px;
+    }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

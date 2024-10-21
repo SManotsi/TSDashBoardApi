@@ -1,0 +1,80 @@
+﻿@model IEnumerable<TeksaHDashboard.Models.TimeTrackingViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    body {
+        background-color: #f4f4f4; /* Light background color */
+        font-family: Arial, sans-serif; /* Font style */
+    }
+
+    h1 {
+        background-color: gray; /* Gray background for the header */
+        color: #fff; /* White text */
+        padding: 10px; /* Padding for the header */
+        text-align: center; /* Center align the header text */
+    }
+
+    .table {
+        margin-top: 20px; /* Top margin for the table */
+        background-color: #fff; /* White background for the table */
+    }
+
+    th {
+        background-color: #f8f8f8; /* Light gray background for table headers */
+    }
+
+    .btn-primary {
+        background-color: #007bff; /* Blue button color */
+        border-color: #007bff; /* Border color matching the button */
+        color: white; /* Button text color */
+    }
+</style>
+
+<div class="container mt-4">
+    <h1 class="text-center">Time Tracking Overview</h1>
+
+    <p class="text-right">
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+    </p>
+
+    <table class="table table-striped table-bordered">
+        <thead class="thead-light">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.StaffId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProjectId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.HoursWorked)
+                </th>
+                <th class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StaffId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProjectId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HoursWorked)
+                    </td>
+                    <td class="text-center">
+                        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-warning btn-sm" }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-info btn-sm" }) |
+                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-danger btn-sm" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

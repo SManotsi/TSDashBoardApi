@@ -1,0 +1,78 @@
+﻿@model TeksaHDashboard.Models.PaymentsViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<style>
+    body {
+        background-color: #f4f4f4; /* Light background color */
+        font-family: Arial, sans-serif; /* Font style */
+    }
+
+    h1 {
+        background-color: gray; /* Gray background for the header */
+        color: #fff; /* White text */
+        padding: 10px; /* Padding for the header */
+        text-align: center; /* Center align the header text */
+    }
+
+    h4 {
+        text-align: center; /* Center align the subheader text */
+        color: #666; /* Muted text color */
+    }
+
+    .container {
+        margin-top: 20px; /* Top margin for the container */
+    }
+
+    .btn-primary {
+        background-color: #007bff; /* Blue button color */
+        border-color: #007bff; /* Border color matching the button */
+        color: #fff; /* White text on the button */
+    }
+</style>
+
+<div class="container mt-4">
+    <h1 class="text-center">Create Payment</h1>
+
+    <h4 class="text-muted text-center">Fill in the details below:</h4>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="InvoiceId" class="control-label"></label>
+                    <input asp-for="InvoiceId" class="form-control" placeholder="Enter Invoice ID" required />
+                    <span asp-validation-for="InvoiceId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Amount" class="control-label"></label>
+                    <input asp-for="Amount" class="form-control" placeholder="Enter Amount" required />
+                    <span asp-validation-for="Amount" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Method" class="control-label"></label>
+                    <input asp-for="Method" class="form-control" placeholder="Enter Payment Method" required />
+                    <span asp-validation-for="Method" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Index" class="btn btn-link">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

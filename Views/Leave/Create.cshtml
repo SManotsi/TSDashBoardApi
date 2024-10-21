@@ -1,0 +1,84 @@
+﻿@model TeksaHDashboard.Models.LeavesViewModel
+
+@{
+    ViewData["Title"] = "Create Leave Record";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Create Leave Record</h1>
+
+    <h4 class="text-muted text-center">Fill in the details below:</h4>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                        <div class="form-group">
+                            <label asp-for="EmployeeId" class="control-label"></label>
+                            <input asp-for="EmployeeId" class="form-control" placeholder="Enter Employee ID" />
+                            <span asp-validation-for="EmployeeId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="LeaveType" class="control-label"></label>
+                            <input asp-for="LeaveType" class="form-control" placeholder="Enter Leave Type" />
+                            <span asp-validation-for="LeaveType" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Status" class="control-label"></label>
+                            <select asp-for="Status" class="form-control">
+                                <option value="">Select Status</option>
+                                <option value="Approved">Approved</option>
+                                <option value="Decline">Decline</option>
+                                <option value="Pending">Pending</option>
+                            </select>
+                            <span asp-validation-for="Status" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Create" class="btn btn-primary btn-block" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-3">
+        <a asp-action="Index" class="btn btn-primary">Back to List</a>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f4f4f4; /* Light background color */
+    }
+
+    h1 {
+        background-color: gray;
+        color: white;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .card {
+        border: none; /* No border for a clean look */
+        margin-top: 20px;
+    }
+
+    .btn-primary {
+        background-color: #007bff; /* Blue button color */
+        border-color: #007bff; /* Consistent border color */
+        color: white; /* Button text color */
+    }
+
+    .form-group {
+        margin-bottom: 1.5rem; /* Increased space between form groups */
+    }
+</style>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
